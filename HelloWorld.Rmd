@@ -1,0 +1,7 @@
+---
+title: "HelloWorld.md"
+author: "Cholponbek"
+date: "Wednesday, April 15, 2015"
+output: html_document
+---
+##This is markdown file
